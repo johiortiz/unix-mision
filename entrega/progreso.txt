@@ -1,0 +1,8 @@
+piso1
+piso2
+piso3
+piso4
+techo1
+techo2
+techo3
+techo4
